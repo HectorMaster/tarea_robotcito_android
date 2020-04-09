@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="contactos-journal" type="DBN-SQL" />
+      <mapping pattern="contacts" type="DBN-SQL" />
       <mapping pattern="contactos" type="PLAIN_TEXT" />
+      <mapping pattern="contactoss" type="SQL" />
     </extensionMap>
   </component>
 </application>
